@@ -5,6 +5,7 @@
 3. For intellij Idea, to define automatic test folder
 
 	a. File->Project Structure->Modules->Source Folders
+	
 		* select test/java, right-click-> select "test" folder.
 		* select test/resources, right-click->select "test resources".
 4. Add unit testing into pom.xml, along with spring-boot-starter-test
